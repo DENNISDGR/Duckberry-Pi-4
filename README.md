@@ -30,7 +30,7 @@ I recently got my hands on a raspberry pi 4 and remembered a repo that I'd stumb
 
 6. Navigate to `lib` in the recently extracted folder and copy `adafruit_hid` to the `lib` folder in your SD.
 
-7. The pi is pretty much on the same level as a ducky now. The only thing left is to find some scripts that I made [here](https://github.com/DENNISDGR/Duckberry-Pi-4) and paste them into `code.py` or create your own with a bit of python knowlege and the help of the CircuitPython [usb_hid Documentation](https://docs.circuitpython.org/projects/hid/en/latest/).
+7. The pi is pretty much on the same level as a ducky now. The only thing left is to find some scripts that I made [here](https://github.com/DENNISDGR/Duckberry-Pi-4/wiki) and paste them into `code.py` or create your own with a bit of python knowlege and the help of the CircuitPython [usb_hid Documentation](https://docs.circuitpython.org/projects/hid/en/latest/).
 
 8. Unplug the SD from the computer insert it back into the raspberry pi and watch the magic happen!
 
