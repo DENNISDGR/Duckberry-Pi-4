@@ -35,7 +35,7 @@ I recently got my hands on a raspberry pi 4 and remembered a repo that I'd stumb
 8. Unplug the SD from the computer insert it back into the raspberry pi and watch the magic happen!
 
 # License
-Released under the [GNU General Public License v3.0](https://github.com/DENNISDGR/Duckberry-Pi-4/wiki)
+Released under the [GNU General Public License v3.0](https://www.gnu.org/licenses/gpl-3.0.en.html)
 
 # Finally
 ### Contribute
