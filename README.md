@@ -18,7 +18,7 @@ I recently got my hands on a raspberry pi 4 and remembered a repo that I'd stumb
 
 # Installation
 
-1. Download annd exctract [CircuitPython .DISK.IMG.ZIP for the Rasberry Pi 4](https://circuitpython.org/board/raspberrypi_pi4b/).
+1. Download and exctract [CircuitPython .DISK.IMG.ZIP for the Rasberry Pi 4](https://circuitpython.org/board/raspberrypi_pi4b/).
 
 2. Flush the image into the SD with Balna Etcher.
 
