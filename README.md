@@ -20,7 +20,7 @@ I recently got my hands on a raspberry pi 4 and remembered a repo that I'd stumb
 
 1. Download and exctract [CircuitPython .DISK.IMG.ZIP for the Rasberry Pi 4](https://circuitpython.org/board/raspberrypi_pi4b/).
 
-2. Flush the image into the SD with Balna Etcher.
+2. Flush the image into the SD with Balena Etcher.
 
 3. Insert the SD in the raspberry pi and plug it into your computer via the USB-C port.
 
